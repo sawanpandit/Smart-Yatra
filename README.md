@@ -8,7 +8,7 @@ It combines destination discovery, itinerary generation, group coordination, exp
 
 ## 🚀 Project Info
 
-**Repository:** https://github.com/yourusername/smart-yatra  
+**Repository:** https://github.com/sawanpandit/Smart-Yatra.git
 
 Developed by **Sawan Pandit**  
 Team: **NepTech Ninjas**
@@ -123,4 +123,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or inquiries, please contact Sawan Pandit at [thesawanpandit@gmail.com](mailto:thesawanpandit@gmail.com)
 
 ---
+
 Thank you for checking out Smart Yatra! We hope it makes your travel planning smarter and more enjoyable. Happy travels! 🌍✈️
